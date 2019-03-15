@@ -1,0 +1,41 @@
+.emp-label{
+  width: 300px;
+  float: left;
+}
+  .emp-list-outer{
+    margin: 10px;
+    float: left;
+  }
+  .emp-value{
+    float: right;
+    width: 745px;
+  }
+  .details-page-title{
+    text-align: center;
+  }
+  .no-record{
+    width: 100%;
+    float: left;
+  }
+  .title-outer{
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+  }
+  .list-outer{
+    width: 100%;
+  }
+  .login-outer{
+    width: 40% !important;
+    margin-top: 10% !important; 
+    margin: auto;
+  }
+  .map-btn{
+    float:right;
+  }
+  .thumbnail{
+    width: 20%;
+  }
+  .emp-name-list{
+    cursor: pointer;
+  }
